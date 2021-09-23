@@ -1,2 +1,4 @@
 medio de transporte que rueda.
 Ideal para pasear o transportarse  a bajo costo.
+A nivel general puede decirse que el cuadro (la estructura) de una bicicleta 
+integra dos ruedas, que suelen tener el mismo tamaño y están ubicadas en línea; un asiento o sillín; un manubrio o manillar para guiar la dirección; y un sistema de transmisión con pedales
